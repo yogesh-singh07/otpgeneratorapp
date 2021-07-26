@@ -1,0 +1,13 @@
+{
+  "name": "otpgeneratorapp",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1"
+  }
+}
